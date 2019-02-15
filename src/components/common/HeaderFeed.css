@@ -1,0 +1,27 @@
+.button{
+    border-radius:50%
+    
+}
+.button:hover {
+    background-color: #555555;
+    color: white;
+  }
+
+  .peeche {
+      margin-left: -140px;
+
+  }
+  .aage {
+      margin-left: 100px;
+  }
+  .neeche {
+      margin-top: 5px;
+  }
+  .gol {
+      border-radius: 15px;
+      border:2px solid rgb(188, 213, 245);
+       
+  }
+ .peechekaro {
+     margin-left: -90px;
+ }
